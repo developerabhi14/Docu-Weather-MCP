@@ -17,5 +17,3 @@ It integrates **MCP servers** for tool execution with a **LangGraph workflow** f
 
 ---
 
-## Project Structure
-
